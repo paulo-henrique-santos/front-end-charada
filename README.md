@@ -1,5 +1,5 @@
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
-# ![charada](https://github.com/user-attachments/assets/b11d0fd7-42ae-4d7a-89c0-5a8dd9245f2c)
+# ![Geradordecharada](https://github.com/user-attachments/assets/cde1f281-644f-4232-9095-981ec6d3acac)
 **Descrição:**
 O site "Charada do Dia" foi criado para testar a minha habilidade de criar uma API, então criei esse joguinho básico para diversão.
 ## Índice
